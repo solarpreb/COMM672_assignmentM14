@@ -1,0 +1,40 @@
+/* .carousel-inner {
+    height: 500px;
+    max-height: 100%;
+} */
+#about {
+    text-align: center;
+    margin: 30px 10%;
+    gap: 100px;
+}
+#features {
+    margin: 100px 10%;
+}
+#features h2 {
+    text-align: center;
+}
+#testimonials {
+    background-color: rgba(41, 36, 71, 0.947);
+    color: white;
+    padding: 50px;
+}
+.nav-link:focus, .nav-link:hover {
+    color: white;
+}
+.nav-tabs .nav-link:active  {
+    color: black;
+}
+.nav-tabs .nav-link {
+    color: white;
+}
+#myTab h2 {
+    width: 100%;
+    text-align: center;
+}
+#contact {
+    margin: 30px;
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
